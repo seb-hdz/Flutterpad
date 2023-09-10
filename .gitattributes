@@ -1,0 +1,11 @@
+# Binary files
+*.bmp     binary
+*.jpeg    binary
+*.jpg     binary
+*.nupkg   binary
+*.png     binary
+*.sdf     binary
+*.ttf     binary
+*.otf     binary
+
+* text=auto eol=lf
